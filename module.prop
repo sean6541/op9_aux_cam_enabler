@@ -1,0 +1,7 @@
+id=op9_aux_cam_enabler
+name=OnePlus 9 Aux Cameras Enabler
+version=v1
+versionCode=1
+author=Sean Olson
+description=Unlocks all cameras for use by third party apps on the OnePlus 9.
+minMagisk=20400
