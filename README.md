@@ -1,3 +1,8 @@
+# **IMPORTANT: DEPRECIATION NOTICE**
+
+**I have written a new module [https://github.com/sean6541/op9_series_camera_unlocker](https://github.com/sean6541/op9_series_camera_unlocker) that is a huge update to this one. It is fully scripted and *should* (no guarantees) work on all versions of OOS and custom ROMS using OOS FW and continue to work with future updates. It also unlocks face detection and (optionally) 48MP full resolution. Please see the README for the new module before installing it as it contains important instructions and information.**
+
+
 # OnePlus 9 Aux Cameras Enabler
 
 Magisk module that unlocks all cameras for use by third party apps on the OnePlus 9.
